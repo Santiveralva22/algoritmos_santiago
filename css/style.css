@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+
+   
+    background:#e94d6f ;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #ffffff;
+    margin-top: 100px;
+
+}
+h1:hover{
+    color: rgba(237, 241, 177, 0.133);
+
+    font-size: 100px;
+   
+}
+
+a img {
+    width: 50px;
+}
+
+#codigo{
+    width :100%;
+
+}
+#algoritmos{
+    background: url(../img/pexels-leon-kohle-12870110.jpg);
+    background-size: cover;
+    background-repeat: none ;
+    text-align: center;
+}
+
+#algoritmos h1{
+color: #ffffff;
+font-size: 40px;
+}
+
+#algoritmos button {
+    padding: 12px 40px;
+    font-size: 20px;
+    background: transparent; 
+    color: #22d87d;
+    border: 2px solid #22d87d;
+    margin: 20px 10px; 
+}
+
+h3{
+    color: black;
+    font-size: 55px;
+}
